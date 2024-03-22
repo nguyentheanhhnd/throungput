@@ -1,0 +1,23 @@
+{
+    "linksafe":{
+
+    },
+    "routing": { 
+        "static":{
+            "dst1":"a",
+            "dst2": "b"
+
+        },
+        "isis": {
+
+        },
+        "ospf":{},
+        "rip": {},
+        "bgp": {}
+
+    },
+    "vpn":{
+
+    }
+
+}
